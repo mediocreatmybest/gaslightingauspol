@@ -1,0 +1,28 @@
+﻿{
+	"content": [
+		{
+			"quote": "Phase 1 of the rollout",
+			"url": "https://example.com/nothing-to-see-move-along.html",
+			"year": "2021",
+			"tags": []
+		},
+		{
+			"quote": "Phase 2 of the rollout",
+			"url": "https://example.com/nothing-to-see-move-along.html",
+			"year": "2021",
+			"tags": []
+		},
+		{
+			"quote": "Phase 3 of the rollout",
+			"url": "https://example.com/nothing-to-see-move-along.html",
+			"year": "2021",
+			"tags": []
+		},
+		{
+			"quote": "Phase 4 of the rollout",
+			"url": "https://example.com/nothing-to-see-move-along.html",
+			"year": "2050",
+			"tags": []
+		}
+	]
+}
