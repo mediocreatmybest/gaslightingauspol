@@ -11,5 +11,6 @@ $.get('example.csv', function (wholeTextFile) {
     //console.log(randomIndex, randomLine);
     console.log(quote)
     console.log(url)
-   $('#headliner').html("Quote: " + quote + "<br>" + "<a href=\"" + url + "\"<\\>" + url + "</a>");
+   $('#headliner').html("Quote: " + quote);
+   $('#headliner_url').html("URL" + url + "<a href=\"" + url + "\"<\\>" + url + "</a>");
   });
