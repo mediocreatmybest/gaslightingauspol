@@ -28,7 +28,7 @@ div#headliner {
 
 }
 
-.headliner_url {
+div#headliner_url {
   font-family: "Quicksand", sans-serif;
   font-size: 14px;
   color: white;
