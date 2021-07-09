@@ -1,3 +1,4 @@
 $("#refresh-button").click(function() {
-    $("#main-container").load("#main-container > *");
+    alert('click');
+    $("#main-container").load("#main-container .headliner .headliner_url > *");
   }); 
