@@ -1,4 +1,4 @@
-$("#refresh-button").onClick(function() {
+$("#refresh-button").click(function() {
     alert('click');
-    $("#main-container").load("#main-container .headliner .headliner-url > *");
+    $("#main-container").load(" #main-container");
   }); 
