@@ -20,7 +20,7 @@ div#quotes_right {
 
 }
 
-div#headliner {
+.headliner {
     font-family: "Quicksand", sans-serif;
     font-size: 25px;
     color: white;
@@ -30,7 +30,7 @@ div#headliner {
 
 .headliner_url {
   font-family: "Quicksand", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: white;
   text-align: center;
   font-style: italic;

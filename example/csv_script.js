@@ -12,5 +12,5 @@ $.get('example.csv', function (wholeTextFile) {
     console.log(quote)
     console.log(url)
    $('#headliner').html("Quote: " + quote);
-   $('#headliner_url').html("URL" + url + "<a href=\"" + url + "\"<\\>" + url + "</a>");
+   $('#headliner_url').html("URL: "<a href=\"" + url + "\"<\\>" + url + "</a>");
   });
