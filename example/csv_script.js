@@ -1,3 +1,4 @@
+function randomHeadliner(){ 
 $.get('example.csv', function (wholeTextFile) {
     //  console.log(wholeTextFile)
     var lines = wholeTextFile.split(/\n/),
@@ -14,3 +15,4 @@ $.get('example.csv', function (wholeTextFile) {
    $('#headliner').html("Quote: " + quote);
    $('#headliner-url').html("URL: <a href=\"" + url + "\"<\\>" + url + "</a>");
   });
+}
