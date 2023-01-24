@@ -71,6 +71,13 @@ font-style: italic;
   padding-bottom: 50px;
 }
 
-.rotate { /* Create rotation class */
-    transition: transform 1s;
+.rotate {
+  transform: rotate3d(1,0,0,180deg); /* Create rotate */
+  transition: transform 1s; /* this will make the rotation transition smoothly */
 }
+
+.rotate-back {
+  transform: rotate3d(0,0,0,0deg); /* this will rotate the element back to its original state */
+  transition: transform 1s; /* this will make the rotation transition smoothly */
+}
+
