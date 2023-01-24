@@ -1,6 +1,6 @@
 document.getElementById("random-btn").addEventListener("click", function(){
     randomHeadliner();
-    var element = document.getElementById("headliner");
+    var element = document.getElementById("rotate-block");
     element.classList.remove("rotate-back");
     element.classList.add("rotate");
     setTimeout(function(){
