@@ -7,20 +7,25 @@
 <link rel="stylesheet" href="style.css">
   <script data-require="jquery@2.1.1" data-semver="2.1.1" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="json_script.js"></script>
+
+
 </head>
 
 <body onload="randomHeadliner()">
   <img src="/gaslightingauspol/example/images/banner.png" alt="Welcome Banner" class="banner_image_center">
   <div id="main-container">
+    <div id="rotate-block" class="rotate">
     <div id="headliner" class="headliner-style"></div>
     <br>
-    <div id="headliner-url" class="headliner-url-style"></div>
+    <div id="headliner-url" class="headliner-url-style"></div></div>
     <br>
     <br>
     <br>
     <br>
-    <center><button class="button" onclick="randomHeadliner()">Wow! What else?</button></center>
+    <!--<center><button class="button" onclick="randomHeadliner()">Wow! What else?</button></center>-->
+    <center><button class="button" id="random-btn">Wow! What else?</button></center>
 
   </div>
+  <script src="rotate-script.js"></script>
 </body>
 </html>
