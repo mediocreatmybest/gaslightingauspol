@@ -14,8 +14,8 @@ body {
 
 #headliner-url {
   position: absolute;
-  bottom: 10px; /* adjust me! */
-  right: 10px; /* adjust me! */
+  bottom: 1px; /* adjust me! */
+  right: 1px; /* adjust me! */
 }
 
 .headliner-style {
