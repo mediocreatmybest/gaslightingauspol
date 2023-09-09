@@ -21,7 +21,7 @@ function randomHeadliner() {
 
         // Create section we can start to modify output data
         if (antagonistId) {
-            antagonist = "<a href='https://theyvoteforyou.org.au/mp.php?id=uk.org.publicwhip/member/" + antagonistId + "'>" + antagonist + "</a>";
+            antagonist = "<a href='https://theyvoteforyou.org.au/mp.php?id=uk.org.publicwhip/member/" + antagonistId + "' target='_blank'>" + antagonist + "</a>";
         }
 
         // JS Logging
