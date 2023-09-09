@@ -125,6 +125,6 @@ font-style: italic;
 }
 
 .rotate-back {
-  transform: rotate3d(0,0,0,0deg); /* this will rotate the element back to its original state */
+  transform: rotate3d(1,0,0,0deg); /* this will rotate the element back to its original state */
   transition: transform 0.8s ease-in-out, opacity 0.5s ease-in-out; /* use ease-in-out - this will make the rotation transition smoothly */
 }
