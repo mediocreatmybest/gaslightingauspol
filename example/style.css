@@ -9,9 +9,24 @@ body {
     text-align:center;
 }
 
+.headliner-quote-style {
+  font-family: "Quicksand", sans-serif;
+  font-size: 25px;
+  color: white;
+  text-align:center;
+}
+
+.headliner-antagonist-style {
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align:center;
+  font-style: italic;
+}
+
 .headliner-url-style {
   font-family: "Quicksand", sans-serif;
-  font-size: 14px;
+  font-size: 10px;
   color: white;
   text-align: center;
   font-style: italic;
