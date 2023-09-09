@@ -1,163 +1,183 @@
 {
-  "content": [
-    {
-      "Quote": "Why did the scarecrow win an award? Because he was outstanding in his field.",
-      "Context": "Farmyard Funnies Show",
-      "Antagonist": "Comedian Crop",
-      "Antagonists_id": 2010,
-      "URL": [
-        "http://jokefarm64.com",
-        "http://laugh129.com"
-      ],
-      "Source_type": "stand-up",
-      "Year": 2021,
-      "Tags": [
-        "humor"
-      ]
-    },
-    {
-      "Quote": "Why don't scientists trust atoms anymore? Because they make up everything.",
-      "Context": "Science Chuckles Book",
-      "Antagonist": "Author Atom",
-      "Antagonists_id": 2011,
-      "URL": [
-        "http://funnyscience99.com",
-        "http://smile132.com"
-      ],
-      "Source_type": "book",
-      "Year": 2005,
-      "Tags": [
-        "science",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "I told my calendar I needed a date, it gave me July 7th.",
-      "Context": "Tech Jokes Unplugged",
-      "Antagonist": "Techie Timer",
-      "Antagonists_id": 2012,
-      "URL": [
-        "http://techjoke41.com",
-        "http://fun161.com"
-      ],
-      "Source_type": "presentation",
-      "Year": 2017,
-      "Tags": [
-        "tech",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "How do you organize a space party? You planet.",
-      "Context": "Galactic Giggles Radio Show",
-      "Antagonist": "Host Sirius",
-      "Antagonists_id": 2013,
-      "URL": [
-        "http://starry69.com",
-        "http://laugh122.com"
-      ],
-      "Source_type": "radio show",
-      "Year": 2005,
-      "Tags": [
-        "space",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "Want to hear a construction joke? I'm still working on it.",
-      "Context": "Building a Better Laugh Workshop",
-      "Antagonist": "Builder Brick",
-      "Antagonists_id": 2014,
-      "URL": [
-        "http://construction31.com",
-        "http://laugh120.com"
-      ],
-      "Source_type": "workshop",
-      "Year": 2013,
-      "Tags": [
-        "construction",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "If you see a crime at an Apple Store, does that make you an iWitness?",
-      "Context": "Tech Stand-up Night",
-      "Antagonist": "Comedian Chip",
-      "Antagonists_id": 2015,
-      "URL": [
-        "http://applejoke50.com",
-        "http://joke141.com"
-      ],
-      "Source_type": "stand-up",
-      "Year": 2019,
-      "Tags": [
-        "tech",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "Math teachers have problems, that's their job.",
-      "Context": "Classroom Comedy Hour",
-      "Antagonist": "Teacher Tangent",
-      "Antagonists_id": 2016,
-      "URL": [
-        "http://mathfun80.com",
-        "http://funny150.com"
-      ],
-      "Source_type": "event",
-      "Year": 2018,
-      "Tags": [
-        "education",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "Don't spell part backward. It's a trap.",
-      "Context": "Wordplay Wonders Podcast",
-      "Antagonist": "Host Punny",
-      "Antagonists_id": 2017,
-      "URL": [
-        "http://words90.com",
-        "http://joke140.com"
-      ],
-      "Source_type": "podcast",
-      "Year": 2010,
-      "Tags": [
-        "language",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "Why did the picture go to jail? Because it was framed.",
-      "Context": "Artistic Antics Blog",
-      "Antagonist": "Blogger Brush",
-      "Antagonists_id": 2018,
-      "URL": [
-        "http://artgag62.com",
-        "http://giggle139.com"
-      ],
-      "Source_type": "blog",
-      "Year": 2022,
-      "Tags": [
-        "art",
-        "humor"
-      ]
-    },
-    {
-      "Quote": "Never trust stairs, they're always up to something.",
-      "Context": "Home Humor Workshop",
-      "Antagonist": "Designer Deck",
-      "Antagonists_id": 2019,
-      "URL": [
-        "http://buildfun74.com",
-        "http://fun135.com"
-      ],
-      "Source_type": "workshop",
-      "Year": 2014,
-      "Tags": [
-        "architecture",
-        "humor"
-      ]
-    }
-  ]
+    "content": [
+        {
+            "Quote": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+            "Context": "Farmyard Funnies Show",
+            "Antagonist": "Comedian Crop",
+            "Antagonists_id": 2010,
+            "URL": [
+                "http://jokefarm64.com",
+                "http://laugh129.com"
+            ],
+            "Source_type": [
+                "stand-up"
+            ],
+            "Year": 2021,
+            "Tags": [
+                "humor"
+            ]
+        },
+        {
+            "Quote": "Why don't scientists trust atoms anymore? Because they make up everything.",
+            "Context": "Science Chuckles Book",
+            "Antagonist": "Author Atom",
+            "Antagonists_id": 2011,
+            "URL": [
+                "http://funnyscience99.com",
+                "http://smile132.com"
+            ],
+            "Source_type": [
+                "book"
+            ],
+            "Year": 2005,
+            "Tags": [
+                "science",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "I told my calendar I needed a date, it gave me July 7th.",
+            "Context": "Tech Jokes Unplugged",
+            "Antagonist": "Techie Timer",
+            "Antagonists_id": 2012,
+            "URL": [
+                "http://techjoke41.com",
+                "http://fun161.com"
+            ],
+            "Source_type": [
+                "presentation"
+            ],
+            "Year": 2017,
+            "Tags": [
+                "tech",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "How do you organize a space party? You planet.",
+            "Context": "Galactic Giggles Radio Show",
+            "Antagonist": "Host Sirius",
+            "Antagonists_id": 2013,
+            "URL": [
+                "http://starry69.com",
+                "http://laugh122.com"
+            ],
+            "Source_type": [
+                "radio show"
+            ],
+            "Year": 2005,
+            "Tags": [
+                "space",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "Want to hear a construction joke? I'm still working on it.",
+            "Context": "Building a Better Laugh Workshop",
+            "Antagonist": "Builder Brick",
+            "Antagonists_id": 2014,
+            "URL": [
+                "http://construction31.com",
+                "http://laugh120.com"
+            ],
+            "Source_type": [
+                "workshop"
+            ],
+            "Year": 2013,
+            "Tags": [
+                "construction",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "If you see a crime at an Apple Store, does that make you an iWitness?",
+            "Context": "Tech Stand-up Night",
+            "Antagonist": "Comedian Chip",
+            "Antagonists_id": 2015,
+            "URL": [
+                "http://applejoke50.com",
+                "http://joke141.com"
+            ],
+            "Source_type": [
+                "stand-up"
+            ],
+            "Year": 2019,
+            "Tags": [
+                "tech",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "Math teachers have problems, that's their job.",
+            "Context": "Classroom Comedy Hour",
+            "Antagonist": "Teacher Tangent",
+            "Antagonists_id": 2016,
+            "URL": [
+                "http://mathfun80.com",
+                "http://funny150.com"
+            ],
+            "Source_type": [
+                "event"
+            ],
+            "Year": 2018,
+            "Tags": [
+                "education",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "Don't spell part backward. It's a trap.",
+            "Context": "Wordplay Wonders Podcast",
+            "Antagonist": "Host Punny",
+            "Antagonists_id": 2017,
+            "URL": [
+                "http://words90.com",
+                "http://joke140.com"
+            ],
+            "Source_type": [
+                "podcast"
+            ],
+            "Year": 2010,
+            "Tags": [
+                "language",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "Why did the picture go to jail? Because it was framed.",
+            "Context": "Artistic Antics Blog",
+            "Antagonist": "Blogger Brush",
+            "Antagonists_id": 2018,
+            "URL": [
+                "http://artgag62.com",
+                "http://giggle139.com"
+            ],
+            "Source_type": [
+                "blog"
+            ],
+            "Year": 2022,
+            "Tags": [
+                "art",
+                "humor"
+            ]
+        },
+        {
+            "Quote": "Never trust stairs, they're always up to something.",
+            "Context": "Home Humor Workshop",
+            "Antagonist": "Designer Deck",
+            "Antagonists_id": 2019,
+            "URL": [
+                "http://buildfun74.com",
+                "http://fun135.com"
+            ],
+            "Source_type": [
+                "workshop"
+            ],
+            "Year": 2014,
+            "Tags": [
+                "architecture",
+                "humor"
+            ]
+        }
+    ]
 }
