@@ -23,12 +23,12 @@ function randomHeadliner() {
 
         // Update the webpage with fetched data
         $('#headliner-quote').html("Quote: " + quote);
-        $('#headliner-antagonist').html("- " + antagonist);
-        $('#headliner-context').html(context);
+        $('#headliner-antagonist').html("-" + antagonist);
+        $('#headliner-context').html("Let's set the scene:<br>" + context);
         $('#headliner-antagonist-id').html(antagonistId);
         $('#headliner-url').html("Sources: " + urlHtml);
         $('#headliner-source-type').html(sourceType);
         $('#headliner-year').html("Year: " + year);
-        $('#headliner-tags').html("Tags: " + tags);
+        $('#headliner-tags').html(tags);
     });
 }
