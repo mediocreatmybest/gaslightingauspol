@@ -9,6 +9,13 @@ body {
   background-color: rgba(255, 255, 255, 0.05); /* Make a box maybe */
   border-radius: 15px; /* give the container rounded corners */
   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* give a slight shadow */
+  position: relative; /* This will allow us to position stuff inside the container */
+}
+
+#headliner-url {
+  position: absolute;
+  bottom: 10px; /* adjust me! */
+  right: 10px; /* adjust me! */
 }
 
 .headliner-style {
