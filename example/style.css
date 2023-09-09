@@ -22,6 +22,7 @@ body {
   color: rgb(225, 225, 225);
   text-align:center;
   font-style: italic;
+  padding: 10px 0; /* Add some space above and below the context */
 }
 
 .headliner-antagonist-style {
@@ -36,7 +37,7 @@ body {
   font-family: "Quicksand", sans-serif;
   font-size: 10px;
   color: white;
-  text-align: center;
+  text-align: right;
   font-style: italic;
 }
 
