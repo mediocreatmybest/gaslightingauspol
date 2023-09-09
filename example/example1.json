@@ -1,0 +1,349 @@
+{
+    "content": [
+        {
+            "Quote": "consectetur ipsum tempor lorem elit amet do.",
+            "Antagonist": "Person Number1",
+            "Antagonists_id": 1001,
+            "URL": [
+                "http://example64.com",
+                "http://example129.com"
+            ],
+            "Source_type": [
+                "hot boom mic"
+            ],
+            "Year": 2021,
+            "Tags": [
+                "politics"
+            ]
+        },
+        {
+            "Quote": "sed sit ipsum dolor do adipiscing elit.",
+            "Antagonist": "Person Number1",
+            "Antagonists_id": 1001,
+            "URL": [
+                "http://example99.com",
+                "http://example132.com"
+            ],
+            "Source_type": [
+                "online news"
+            ],
+            "Year": 2005,
+            "Tags": [
+                "history"
+            ]
+        },
+        {
+            "Quote": "consectetur ipsum sit eiusmod.",
+            "Antagonist": "Person Number2",
+            "Antagonists_id": 1002,
+            "URL": [
+                "http://example41.com",
+                "http://example161.com"
+            ],
+            "Source_type": [
+                "speech"
+            ],
+            "Year": 2017,
+            "Tags": [
+                "history"
+            ]
+        },
+        {
+            "Quote": "do amet sit ipsum sed.",
+            "Antagonist": "Person Number1",
+            "Antagonists_id": 1001,
+            "URL": [
+                "http://example69.com",
+                "http://example122.com"
+            ],
+            "Source_type": [
+                "book"
+            ],
+            "Year": 2005,
+            "Tags": [
+                "entertainment"
+            ]
+        },
+        {
+            "Quote": "adipiscing tempor ipsum amet elit dolor sit eiusmod consectetur do.",
+            "Antagonist": "Person Number2",
+            "Antagonists_id": 1002,
+            "URL": [
+                "http://example31.com",
+                "http://example120.com"
+            ],
+            "Source_type": [
+                "online news",
+                "book"
+            ],
+            "Year": 2013,
+            "Tags": [
+                "entertainment",
+                "history",
+                "politics"
+            ]
+        },
+        {
+            "Quote": "ipsum do consectetur sit amet lorem eiusmod.",
+            "Antagonist": "Person Number2",
+            "Antagonists_id": 1002,
+            "URL": [
+                "http://example21.com",
+                "http://example177.com"
+            ],
+            "Source_type": [
+                "hot boom mic",
+                "interview"
+            ],
+            "Year": 2006,
+            "Tags": [
+                "politics",
+                "history",
+                "art"
+            ]
+        },
+        {
+            "Quote": "sit ipsum amet adipiscing do eiusmod tempor lorem elit.",
+            "Antagonist": "Person Number2",
+            "Antagonists_id": 1002,
+            "URL": [
+                "http://example21.com",
+                "http://example155.com"
+            ],
+            "Source_type": [
+                "speech",
+                "online news"
+            ],
+            "Year": 2021,
+            "Tags": [
+                "science"
+            ]
+        },
+        {
+            "Quote": "sit sed ipsum adipiscing dolor elit lorem amet eiusmod.",
+            "Antagonist": "Person Number3",
+            "Antagonists_id": 1003,
+            "URL": [
+                "http://example40.com",
+                "http://example155.com"
+            ],
+            "Source_type": [
+                "hot boom mic"
+            ],
+            "Year": 2009,
+            "Tags": [
+                "politics",
+                "history"
+            ]
+        },
+        {
+            "Quote": "sed consectetur amet sit do adipiscing.",
+            "Antagonist": "Person Number4",
+            "Antagonists_id": 1004,
+            "URL": [
+                "http://example6.com",
+                "http://example172.com"
+            ],
+            "Source_type": [
+                "book"
+            ],
+            "Year": 2000,
+            "Tags": [
+                "art"
+            ]
+        },
+        {
+            "Quote": "lorem dolor adipiscing tempor consectetur eiusmod.",
+            "Antagonist": "Person Number4",
+            "Antagonists_id": 1004,
+            "URL": [
+                "http://example80.com",
+                "http://example161.com"
+            ],
+            "Source_type": [
+                "online news"
+            ],
+            "Year": 2008,
+            "Tags": [
+                "entertainment",
+                "politics"
+            ]
+        },
+        {
+            "Quote": "elit amet eiusmod do adipiscing sed dolor consectetur tempor ipsum.",
+            "Antagonist": "Person Number4",
+            "Antagonists_id": 1004,
+            "URL": [
+                "http://example48.com",
+                "http://example185.com"
+            ],
+            "Source_type": [
+                "hot boom mic"
+            ],
+            "Year": 2021,
+            "Tags": [
+                "entertainment",
+                "history"
+            ]
+        },
+        {
+            "Quote": "amet sed adipiscing lorem tempor consectetur do eiusmod.",
+            "Antagonist": "Person Number4",
+            "Antagonists_id": 1004,
+            "URL": [
+                "http://example29.com",
+                "http://example168.com"
+            ],
+            "Source_type": [
+                "book"
+            ],
+            "Year": 2015,
+            "Tags": [
+                "online"
+            ]
+        },
+        {
+            "Quote": "eiusmod consectetur amet ipsum sed dolor sit adipiscing elit.",
+            "Antagonist": "Person Number5",
+            "Antagonists_id": 1005,
+            "URL": [
+                "http://example51.com",
+                "http://example172.com"
+            ],
+            "Source_type": [
+                "hot boom mic"
+            ],
+            "Year": 2020,
+            "Tags": [
+                "history"
+            ]
+        },
+        {
+            "Quote": "do sed consectetur ipsum elit adipiscing sit lorem.",
+            "Antagonist": "Person Number5",
+            "Antagonists_id": 1005,
+            "URL": [
+                "http://example32.com",
+                "http://example101.com"
+            ],
+            "Source_type": [
+                "hot boom mic"
+            ],
+            "Year": 2008,
+            "Tags": [
+                "science"
+            ]
+        },
+        {
+            "Quote": "ipsum elit adipiscing do eiusmod sit lorem sed.",
+            "Antagonist": "Person Number5",
+            "Antagonists_id": 1005,
+            "URL": [
+                "http://example39.com",
+                "http://example159.com"
+            ],
+            "Source_type": [
+                "speech",
+                "hot boom mic"
+            ],
+            "Year": 2000,
+            "Tags": [
+                "art",
+                "science"
+            ]
+        },
+        {
+            "Quote": "consectetur dolor eiusmod sed elit do tempor adipiscing.",
+            "Antagonist": "Person Number6",
+            "Antagonists_id": 1006,
+            "URL": [
+                "http://example37.com",
+                "http://example184.com"
+            ],
+            "Source_type": [
+                "interview",
+                "book"
+            ],
+            "Year": 2006,
+            "Tags": [
+                "science",
+                "politics"
+            ]
+        },
+        {
+            "Quote": "lorem eiusmod do tempor ipsum sed adipiscing amet dolor.",
+            "Antagonist": "Person Number6",
+            "Antagonists_id": 1006,
+            "URL": [
+                "http://example70.com",
+                "http://example192.com"
+            ],
+            "Source_type": [
+                "book"
+            ],
+            "Year": 2002,
+            "Tags": [
+                "",
+                "technology",
+                "science"
+            ]
+        },
+        {
+            "Quote": "adipiscing sed dolor ipsum tempor.",
+            "Antagonist": "Person Number6",
+            "Antagonists_id": 1006,
+            "URL": [
+                "http://example40.com",
+                "http://example104.com"
+            ],
+            "Source_type": [
+                "interview",
+                "hot boom mic",
+                "online news"
+            ],
+            "Year": 2020,
+            "Tags": [
+                "entertainment",
+                "art",
+                "technology"
+            ]
+        },
+        {
+            "Quote": "amet adipiscing sed consectetur lorem elit.",
+            "Antagonist": "Person Number6",
+            "Antagonists_id": 1006,
+            "URL": [
+                "http://example43.com",
+                "http://example199.com"
+            ],
+            "Source_type": [
+                "online news",
+                "interview",
+                "speech"
+            ],
+            "Year": 2022,
+            "Tags": [
+                "history",
+                "entertainment",
+                "art"
+            ]
+        },
+        {
+            "Quote": "dolor elit adipiscing eiusmod amet sit tempor sed.",
+            "Antagonist": "Person Number6",
+            "Antagonists_id": 1006,
+            "URL": [
+                "http://example81.com",
+                "http://example167.com"
+            ],
+            "Source_type": [
+                "interview"
+            ],
+            "Year": 2002,
+            "Tags": [
+                "technology",
+                "entertainment"
+            ]
+        }
+    ]
+}
