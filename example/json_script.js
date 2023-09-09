@@ -6,6 +6,7 @@ function randomHeadliner() {
         var randomData = quotesArray[randomIndex];
 
         var quote = randomData.Quote;
+        var context = randomData.Context;
         var antagonist = randomData.Antagonist;
         var antagonistId = randomData.Antagonists_id;
 
@@ -18,14 +19,15 @@ function randomHeadliner() {
         var tags = randomData.Tags.join(', ');
 
         // JS Logging
-        console.log(quote, antagonist, antagonistId, urlHtml, sourceType, year, tags);
+        console.log(quote, context, antagonist, antagonistId, urlHtml, sourceType, year, tags);
 
         // Update the webpage with fetched data
         $('#headliner-quote').html("Quote: " + quote);
         $('#headliner-antagonist').html("- " + antagonist);
-        $('#headliner-antagonist-id').html("Antagonist ID: " + antagonistId);
-        $('#headliner-url').html("Context URL: " + urlHtml);
-        $('#headliner-source-type').html("Source Type: " + sourceType);
+        $('#headliner-context').html(context);
+        $('#headliner-antagonist-id').html(antagonistId);
+        $('#headliner-url').html("Sources: " + urlHtml);
+        $('#headliner-source-type').html(sourceType);
         $('#headliner-year').html("Year: " + year);
         $('#headliner-tags').html("Tags: " + tags);
     });

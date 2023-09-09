@@ -16,6 +16,14 @@ body {
   text-align:center;
 }
 
+.headliner-context-style {
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  color: rgb(225, 225, 225);
+  text-align:center;
+  font-style: italic;
+}
+
 .headliner-antagonist-style {
   font-family: "Quicksand", sans-serif;
   font-size: 20px;
