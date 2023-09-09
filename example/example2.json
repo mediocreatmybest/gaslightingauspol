@@ -1,104 +1,104 @@
 {
   "content": [
-    {
-      "Quote": "When electrons get excited, they light up your world.",
-      "Context": "Electron Enthusiasts Conference",
-      "Antagonist": "Dr. Bright Volt",
-      "Antagonists_id": 3020,
-      "URL": ["http://electron101.com", "http://scienceworld129.com"],
-      "Source_type": "conference",
-      "Year": 2023,
-      "Tags": ["physics", "humor"]
-    },
-    {
-      "Quote": "Gravity: It’s not just a good idea, it's the law!",
-      "Context": "The Universe Uncovered Book",
-      "Antagonist": "Prof. Isaac Newtie",
-      "Antagonists_id": 3021,
-      "URL": ["http://gravitygags99.com", "http://sciencelaughs132.com"],
-      "Source_type": "book",
-      "Year": 2023,
-      "Tags": ["physics", "humor"]
-    },
-    {
-      "Quote": "Never trust an atom, they split personalities.",
-      "Context": "Nuclear Humor Night",
-      "Antagonist": "Dr. Neutron Nick",
-      "Antagonists_id": 3022,
-      "URL": ["http://atomjokes41.com", "http://funscience161.com"],
-      "Source_type": "stand-up",
-      "Year": 2023,
-      "Tags": ["chemistry", "humor"]
-    },
-    {
-      "Quote": "The problem with photons is that they always see the light.",
-      "Context": "Laser Laughs Event",
-      "Antagonist": "Lumina Ray",
-      "Antagonists_id": 3023,
-      "URL": ["http://photonhumor69.com", "http://sciencelaugh122.com"],
-      "Source_type": "event",
-      "Year": 2023,
-      "Tags": ["physics", "humor"]
-    },
-    {
-      "Quote": "Bacteria: The only culture some people have.",
-      "Context": "Microbe Mirth Seminar",
-      "Antagonist": "Dr. Petra Dish",
-      "Antagonists_id": 3024,
-      "URL": ["http://microbe31.com", "http://biolaugh120.com"],
-      "Source_type": "seminar",
-      "Year": 2023,
-      "Tags": ["biology", "humor"]
-    },
-    {
-      "Quote": "Geology rocks, but geography is where it's at!",
-      "Context": "Earth Enthusiast Meetup",
-      "Antagonist": "Prof. Terra Firma",
-      "Antagonists_id": 3025,
-      "URL": ["http://earthjoke50.com", "http://geojokes141.com"],
-      "Source_type": "meetup",
-      "Year": 2023,
-      "Tags": ["geology", "geography", "humor"]
-    },
-    {
-      "Quote": "Entropy isn't what it used to be.",
-      "Context": "Chaos & Cosmos Convention",
-      "Antagonist": "Dr. Theo R. Chaos",
-      "Antagonists_id": 3026,
-      "URL": ["http://chaosfun80.com", "http://cosmichumor150.com"],
-      "Source_type": "convention",
-      "Year": 2023,
-      "Tags": ["physics", "humor"]
-    },
-    {
-      "Quote": "Schrodinger's cat walks into a bar. And doesn't.",
-      "Context": "Quantum Quirks Podcast",
-      "Antagonist": "Host Quantum Quill",
-      "Antagonists_id": 3027,
-      "URL": ["http://quantumquirks90.com", "http://physicsjoke140.com"],
-      "Source_type": "podcast",
-      "Year": 2023,
-      "Tags": ["physics", "humor"]
-    },
-    {
-      "Quote": "If you're not part of the solution, you're part of the precipitate.",
-      "Context": "Lab Laughter Workshop",
-      "Antagonist": "Chemist Crystal Clear",
-      "Antagonists_id": 3028,
-      "URL": ["http://chemistrygag62.com", "http://lablaughs139.com"],
-      "Source_type": "workshop",
-      "Year": 2023,
-      "Tags": ["chemistry", "humor"]
-    },
-    {
-      "Quote": "What does a physicist say during a fight? I've got potential energy!",
-      "Context": "Science Snickers Symposium",
-      "Antagonist": "Dr. Philo S. Physics",
-      "Antagonists_id": 3029,
-      "URL": ["http://physicspuns74.com", "http://energylaughs135.com"],
-      "Source_type": "symposium",
-      "Year": 2023,
-      "Tags": ["physics", "humor"]
-    }
+      {
+          "Quote": "When electrons get excited, they light up your world.",
+          "Context": "Electron Enthusiasts Conference",
+          "Antagonist": "Dr. Bright Volt",
+          "Antagonists_id": 3020,
+          "URL": ["http://electron101.com", "http://scienceworld129.com"],
+          "Source_type": "conference",
+          "Year": 2023,
+          "Tags": ["physics", "humor"]
+        },
+        {
+          "Quote": "Gravity: It’s not just a good idea, it's the law!",
+          "Context": "The Universe Uncovered Book",
+          "Antagonist": "Prof. Isaac Newtie",
+          "Antagonists_id": 3021,
+          "URL": ["http://gravitygags99.com", "http://sciencelaughs132.com"],
+          "Source_type": "book",
+          "Year": 2023,
+          "Tags": ["physics", "humor"]
+        },
+        {
+          "Quote": "Never trust an atom, they split personalities.",
+          "Context": "Nuclear Humor Night",
+          "Antagonist": "Dr. Neutron Nick",
+          "Antagonists_id": 3022,
+          "URL": ["http://atomjokes41.com", "http://funscience161.com"],
+          "Source_type": "stand-up",
+          "Year": 2023,
+          "Tags": ["chemistry", "humor"]
+        },
+        {
+          "Quote": "The problem with photons is that they always see the light.",
+          "Context": "Laser Laughs Event",
+          "Antagonist": "Lumina Ray",
+          "Antagonists_id": 3023,
+          "URL": ["http://photonhumor69.com", "http://sciencelaugh122.com"],
+          "Source_type": "event",
+          "Year": 2023,
+          "Tags": ["physics", "humor"]
+        },
+        {
+          "Quote": "Bacteria: The only culture some people have.",
+          "Context": "Microbe Mirth Seminar",
+          "Antagonist": "Dr. Petra Dish",
+          "Antagonists_id": 3024,
+          "URL": ["http://microbe31.com", "http://biolaugh120.com"],
+          "Source_type": "seminar",
+          "Year": 2023,
+          "Tags": ["biology", "humor"]
+        },
+        {
+          "Quote": "Geology rocks, but geography is where it's at!",
+          "Context": "Earth Enthusiast Meetup",
+          "Antagonist": "Prof. Terra Firma",
+          "Antagonists_id": 3025,
+          "URL": ["http://earthjoke50.com", "http://geojokes141.com"],
+          "Source_type": "meetup",
+          "Year": 2023,
+          "Tags": ["geology", "geography", "humor"]
+        },
+        {
+          "Quote": "Entropy isn't what it used to be.",
+          "Context": "Chaos & Cosmos Convention",
+          "Antagonist": "Dr. Theo R. Chaos",
+          "Antagonists_id": 3026,
+          "URL": ["http://chaosfun80.com", "http://cosmichumor150.com"],
+          "Source_type": "convention",
+          "Year": 2023,
+          "Tags": ["physics", "humor"]
+        },
+        {
+          "Quote": "Schrodinger's cat walks into a bar. And doesn't.",
+          "Context": "Quantum Quirks Podcast",
+          "Antagonist": "Host Quantum Quill",
+          "Antagonists_id": 3027,
+          "URL": ["http://quantumquirks90.com", "http://physicsjoke140.com"],
+          "Source_type": "podcast",
+          "Year": 2023,
+          "Tags": ["physics", "humor"]
+        },
+        {
+          "Quote": "If you're not part of the solution, you're part of the precipitate.",
+          "Context": "Lab Laughter Workshop",
+          "Antagonist": "Chemist Crystal Clear",
+          "Antagonists_id": 3028,
+          "URL": ["http://chemistrygag62.com", "http://lablaughs139.com"],
+          "Source_type": "workshop",
+          "Year": 2023,
+          "Tags": ["chemistry", "humor"]
+        },
+        {
+          "Quote": "What does a physicist say during a fight? I've got potential energy!",
+          "Context": "Science Snickers Symposium",
+          "Antagonist": "Dr. Philo S. Physics",
+          "Antagonists_id": 3029,
+          "URL": ["http://physicspuns74.com", "http://energylaughs135.com"],
+          "Source_type": "symposium",
+          "Year": 2023,
+          "Tags": ["physics", "humor"]
+        }
   ]
 }
