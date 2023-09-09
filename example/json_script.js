@@ -19,6 +19,11 @@ function randomHeadliner() {
         var year = randomData.Year;
         var tags = randomData.Tags.join(', ');
 
+        // Create section we can start to modify output data
+        if (antagonistId) {
+            antagonist = "<a href='https://theyvoteforyou.org.au/mp.php?id=uk.org.publicwhip/member/" + antagonistId + "'>" + antagonist + "</a>";
+        }
+
         // JS Logging
         console.log(quote, context, antagonist, antagonistId, urlHtml, sourceType, year, tags, quoteIndex);
 
@@ -26,12 +31,10 @@ function randomHeadliner() {
         $('#headliner-quote').html("Quote: " + quote);
         $('#headliner-antagonist').html("-" + antagonist);
         $('#headliner-context').html("Let's set the scene:<br>" + context);
-        $('#headliner-antagonist-id').html(antagonistId);
         $('#headliner-url').html("Sources: " + urlHtml);
         $('#headliner-source-type').html(sourceType);
         $('#headliner-year').html("Year: " + year);
         $('#headliner-tags').html(tags);
         $('#headliner-index').html(quoteIndex);
-
     });
 }
