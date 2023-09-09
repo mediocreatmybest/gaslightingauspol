@@ -113,11 +113,11 @@ font-style: italic;
 
 .rotate {
   transform: rotate3d(1,0,0,90deg); /* Create rotate */
-  transition: transform 1s ease-in-out, opacity 1s ease-in-out; /* use ease-in-out - this will make the rotation transition smoothly */
+  transition: transform 1s ease-in-out, opacity 0.8 ease-in-out; /* use ease-in-out - this will make the rotation transition smoothly */
   opacity: 0;  /* Hide element when upside down * poof! * magic! */
 }
 
 .rotate-back {
   transform: rotate3d(0,0,0,0deg); /* this will rotate the element back to its original state */
-  transition: transform 1s ease-in-out, opacity 1s ease-in-out; /* use ease-in-out - this will make the rotation transition smoothly */
+  transition: transform 0.8s ease-in-out, opacity 0.6 ease-in-out; /* use ease-in-out - this will make the rotation transition smoothly */
 }
