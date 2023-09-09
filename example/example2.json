@@ -15,7 +15,8 @@
             "Year": 2021,
             "Tags": [
                 "humor"
-            ]
+            ],
+            "Index": "0000000001"
         },
         {
             "Quote": "Why don't scientists trust atoms anymore? Because they make up everything.",
@@ -33,7 +34,8 @@
             "Tags": [
                 "science",
                 "humor"
-            ]
+            ],
+            "Index": "0000000002"
         },
         {
             "Quote": "I told my calendar I needed a date, it gave me July 7th.",
@@ -51,7 +53,8 @@
             "Tags": [
                 "tech",
                 "humor"
-            ]
+            ],
+            "Index": "0000000003"
         },
         {
             "Quote": "How do you organize a space party? You planet.",
@@ -69,7 +72,8 @@
             "Tags": [
                 "space",
                 "humor"
-            ]
+            ],
+            "Index": "0000000004"
         },
         {
             "Quote": "Want to hear a construction joke? I'm still working on it.",
@@ -87,7 +91,8 @@
             "Tags": [
                 "construction",
                 "humor"
-            ]
+            ],
+            "Index": "0000000005"
         },
         {
             "Quote": "If you see a crime at an Apple Store, does that make you an iWitness?",
@@ -105,7 +110,8 @@
             "Tags": [
                 "tech",
                 "humor"
-            ]
+            ],
+            "Index": "0000000006"
         },
         {
             "Quote": "Math teachers have problems, that's their job.",
@@ -123,7 +129,8 @@
             "Tags": [
                 "education",
                 "humor"
-            ]
+            ],
+            "Index": "0000000007"
         },
         {
             "Quote": "Don't spell part backward. It's a trap.",
@@ -141,7 +148,8 @@
             "Tags": [
                 "language",
                 "humor"
-            ]
+            ],
+            "Index": "0000000008"
         },
         {
             "Quote": "Why did the picture go to jail? Because it was framed.",
@@ -159,7 +167,8 @@
             "Tags": [
                 "art",
                 "humor"
-            ]
+            ],
+            "Index": "0000000009"
         },
         {
             "Quote": "Never trust stairs, they're always up to something.",
@@ -177,7 +186,8 @@
             "Tags": [
                 "architecture",
                 "humor"
-            ]
+            ],
+            "Index": "0000000010"
         }
     ]
 }

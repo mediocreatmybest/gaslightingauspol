@@ -9,6 +9,7 @@ function randomHeadliner() {
         var context = randomData.Context;
         var antagonist = randomData.Antagonist;
         var antagonistId = randomData.Antagonists_id;
+        var quoteIndex = randomData.Index;
 
         var urlHtml = randomData.URL.map(function(url) {
             return "<a href='" + url + "'>" + url + "</a>";
@@ -19,7 +20,7 @@ function randomHeadliner() {
         var tags = randomData.Tags.join(', ');
 
         // JS Logging
-        console.log(quote, context, antagonist, antagonistId, urlHtml, sourceType, year, tags);
+        console.log(quote, context, antagonist, antagonistId, urlHtml, sourceType, year, tags, quoteIndex);
 
         // Update the webpage with fetched data
         $('#headliner-quote').html("Quote: " + quote);
@@ -30,5 +31,7 @@ function randomHeadliner() {
         $('#headliner-source-type').html(sourceType);
         $('#headliner-year').html("Year: " + year);
         $('#headliner-tags').html(tags);
+        $('#headliner-index').html(quoteIndex);
+
     });
 }

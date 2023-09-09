@@ -12,6 +12,15 @@ body {
   position: relative; /* This will allow us to position stuff inside the container */
 }
 
+#playAudio {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #FFF;
+  outline: none;
+}
+
 .headliner-style {
     font-family: "Quicksand", sans-serif;
     font-size: 25px;
