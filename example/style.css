@@ -2,6 +2,15 @@ body {
     background: linear-gradient(to right, #242424 0%, #2a2a2a 100%);
 }
 
+#main-container {
+  max-width: 85%; /* Max for the container */
+  margin: 0 auto;   /* This will center the container */
+  padding: 20px;    /* Add some space inside the container */
+  background-color: rgba(255, 255, 255, 0.05); /* Make a box maybe */
+  border-radius: 15px; /* give the container rounded corners */
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* give a slight shadow */
+}
+
 .headliner-style {
     font-family: "Quicksand", sans-serif;
     font-size: 25px;
