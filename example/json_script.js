@@ -1,5 +1,5 @@
 function randomHeadliner() {
-    $.getJSON('example1.json', function (data) {
+    $.getJSON('example2.json', function (data) {
         // set up variables
         var quotesArray = data.content;
         var randomIndex = Math.floor(Math.random() * quotesArray.length);
