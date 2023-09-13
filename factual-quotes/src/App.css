@@ -1,0 +1,44 @@
+/* src/App.css */
+
+.quote-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  max-width: 600px;
+  margin: 50px auto; /* This will center the quote box on the page */
+  position: relative;
+}
+
+.main-content {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.quote {
+  font-size: 1.5em;
+}
+
+.author {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.scene-heading {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.context {
+  margin-top: 10px;
+}
+
+.sources {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+button {
+  margin-top: 20px;
+}
